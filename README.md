@@ -11,7 +11,7 @@ Tech Stack:
 
 Disclaimer
 
-    This project is created **solely for learning and educational purposes**.
+    This project is created solely for learning and educational purposes.
 
-    I built this landing page to **improve my front-end design and development skills**, taking **inspiration from the official [Next.js](https://nextjs.org)** website.
+    I built this landing page to improve my front-end design and development skills, taking inspiration from the official [Next.js](https://nextjs.org) website.
 
